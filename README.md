@@ -4,5 +4,5 @@ Matplotlib görselleştirme kütüphanesinin özelliklerini uygulamalı bir şek
 
 Yazı dizisi için:
 
-[https://medium.com/mertalabas/python-i̇le-veri-görselleştirme-matplotlib-kütüphanesi-1-ea1c62fb44a8](https://medium.com/mertalabas/python-i̇le-veri-görselleştirme-matplotlib-kütüphanesi-1-ea1c62fb44a8)
+[https://medium.com/datarunner/veri-gorsellestirme/home](https://medium.com/datarunner/veri-gorsellestirme/home)
 
