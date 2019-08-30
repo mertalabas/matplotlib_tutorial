@@ -8,5 +8,5 @@ Yazı dizisi için:
 
 Dosya jupyter uzantılı olduğu için githubda açılırken sıkıntı yaşıyorsanız bu linkten ön izleme yapabilirsiniz.
 
-https://nbviewer.jupyter.org/github/mertalabas/matplotlib_tutorial/blob/master/Matplotlib_tutorial.ipynb (https://nbviewer.jupyter.org/github/mertalabas/matplotlib_tutorial/blob/master/Matplotlib_tutorial.ipynb)
+https://nbviewer.jupyter.org/github/mertalabas/matplotlib_tutorial/blob/master/Matplotlib_tutorial.ipynb 
 
